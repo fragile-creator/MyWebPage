@@ -1,10 +1,10 @@
 [homepage]
 onlyPostsInHomePage = false
 homePageLogo = true
-homePageTitle = "SANS hugo Theme"
+homePageTitle = "KSY"
 homePageTagLine = ""
-homePageLogoPath = 'images/avatar.png'
-homePageAbout = "This is a brief documentation for SANS Hugo theme. SANS is a minimal theme for Hugo."
+homePageLogoPath = 'images/Guerem.png'
+homePageAbout = "컴퓨터공학에 대해 배우고 있습니다."
 
 homePageCoverPath = 'image1.png'
 homePageCoverTitle = "Welcome to our blog and portfolio."

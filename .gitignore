@@ -9,6 +9,9 @@
 Thumbs.db
 .idea/
 .vscode/
+*.swp
+*.swo
+*~
 
 # Prepared Hugo Pages site
 !/site/

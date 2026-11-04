@@ -4,14 +4,25 @@
     weight = 10
 
 
-   [[main]]
+  [[main]]
     name = 'About'
     pageRef ='/pages/about/'
-    weight = 50 
+    weight = 20 
 
   [[main]]
-    name='Docs'
-    identifier='guides'
-    url='/doc/'
-    weight=70
+    name ='Docs'
+    identifier ='doc'
+    url ='/doc/'
+    weight = 30
   
+  [[main]]
+    name = '관심 분야 및 학습 목표'
+    parent = 'doc'
+    pageRef = '/doc/interests_and_goals/'
+    weight = 31
+
+  [[main]]
+    name = '대표 활동'
+    parent = 'doc'
+    pageRef = '/doc/featured_project/'
+    weight = 32

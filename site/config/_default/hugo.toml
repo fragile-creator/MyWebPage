@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = 'en-us'
+languageCode = 'ko'
 title = 'SANS'
 
 publishDir = "public"

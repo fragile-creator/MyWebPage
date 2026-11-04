@@ -865,7 +865,7 @@ body.dark-mode .tab-btn.active {
    ============================================ */
 
 .header-nav {
-  margin-top: 0;
+  margin-top: 1.2rem;
   display: flex;
   align-items: center;
   margin-left: auto;

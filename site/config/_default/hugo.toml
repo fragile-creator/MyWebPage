@@ -1,6 +1,6 @@
 baseURL = "https://fragile-creator.github.io/MyWebPage/"
 languageCode = 'ko'
-title = 'SANS'
+title = 'KSY's 첫 포트폴리오'
 
 publishDir = "public"
 

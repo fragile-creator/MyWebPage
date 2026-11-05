@@ -2372,3 +2372,19 @@ body.dark-mode button:focus-visible,
 body.dark-mode input:focus-visible {
   outline: 3px solid #66b0ff !important;
 }
+
+blockquote {
+  border-left: 4px solid #007bff;
+  background-color: rgba(0, 123, 255, 0.05);
+  margin: 1.2rem 0;
+  padding: 0.8rem 1.2rem;
+  border-radius: 0 6px 6px 0;
+  color: #555;
+  font-style: normal;
+}
+
+body.dark-mode blockquote {
+  border-left-color: #4d9aff;
+  background-color: rgba(77, 154, 255, 0.08);
+  color: #bbb;
+}

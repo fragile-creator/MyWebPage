@@ -6,10 +6,6 @@ type: "page"
 showFrontMatter: false
 ---
 
-# 관심 분야 및 학습 목표
-
----
-
 ## 1. 관심 분야 및 관심 계기
 
 ### 📌 관심 분야

@@ -2358,3 +2358,17 @@ html {
 h2, h3 {
   scroll-margin-top: 2rem; /* 앵커 이동 시 제목 위쪽에 여백 확보 */
 }
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: 3px solid #007bff !important;
+  outline-offset: 3px !important;
+  border-radius: 4px;
+}
+
+body.dark-mode a:focus-visible,
+body.dark-mode button:focus-visible,
+body.dark-mode input:focus-visible {
+  outline: 3px solid #66b0ff !important;
+}

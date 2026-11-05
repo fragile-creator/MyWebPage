@@ -6,10 +6,6 @@ type: "page"
 showFrontMatter: false
 ---
 
-# 대표 활동: Hugo 기반 개인 포트폴리오 웹사이트 구축
-
----
-
 ## 1. 활동 개요
 
 - **활동명**: Hugo와 GitHub Actions를 활용한 반응형 개인 포트폴리오 사이트 제작

@@ -21,8 +21,8 @@ showFrontMatter = false
 
 2. **[대표 활동: 개인 포트폴리오 웹사이트 구축](/MyWebPage/doc/featured_project/)**
    - [활동 개요 및 활동 목적](/MyWebPage/doc/featured_project/#1-활동-개요)
-   - [수행 과정 및 기술적 의사결정](/MyWebPage/doc/featured_project/#3-수행-과정-및-기술적-의사결장)
-   - [결과물 및 배운 점](/MyWebPage/doc/featured_project/#4-수행-결과물-및-배운-점-p79)
+   - [수행 과정 및 기술적 의사결정](/MyWebPage/doc/featured_project/#3-수행-과정-및-기술적-의사결정)
+   - [결과물 및 배운 점](/MyWebPage/doc/featured_project/#4-수행-결과물-및-배운-점)
 
 ---
 > 상단 메뉴 또는 위 링크를 클릭하여 각 문서를 확인하실 수 있습니다.

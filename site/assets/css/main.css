@@ -2351,3 +2351,10 @@ table td:nth-child(2) {
   white-space: nowrap !important;
   text-align: center;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+h2, h3 {
+  scroll-margin-top: 2rem; /* 앵커 이동 시 제목 위쪽에 여백 확보 */
+}

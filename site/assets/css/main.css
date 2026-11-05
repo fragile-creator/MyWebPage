@@ -2335,3 +2335,19 @@ body.dark-mode .hero-section {
 .section-main-box {
   display: none !important;
 }
+
+/* 마크다운 표 스타일 및 숙련도 열 줄바꿈 방지 */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+table th, table td {
+  padding: 0.6rem 0.8rem;
+  border: 1px solid #ddd;
+}
+table th:nth-child(2),
+table td:nth-child(2) {
+  white-space: nowrap !important;
+  text-align: center;
+}

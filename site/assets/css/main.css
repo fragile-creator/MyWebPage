@@ -2404,3 +2404,14 @@ a, button {
     gap: 0.8rem;
   }
 }
+
+#logo-image {
+  cursor: pointer;
+  transition: transform 0.25s ease-in-out;
+}
+
+/* 마우스를 올렸을 때 사진 전환 */
+#logo-image:hover {
+  content: url('/MyWebPage/images/sad.png');
+  transform: scale(1.08);
+}

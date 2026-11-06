@@ -2,9 +2,9 @@
 onlyPostsInHomePage = false
 homePageLogo = true
 homePageTitle = "KSY"
-homePageTagLine = ""
+homePageTagLine = "Computer Science Student"
 homePageLogoPath = 'images/Guerem.png'
-homePageAbout = "컴퓨터공학에 대해 배우고 있습니다."
+homePageAbout = "컴퓨터공학에 대해 전반적으로 배우고 있습니다!"
 
 homePageCoverPath = ''
 homePageCoverTitle = "포트폴리오 웹사이트"
@@ -12,7 +12,7 @@ homePageCoverTagLine = "전공 학습내용 기록 및 포트폴리오 작성 �
 homePageSummaryLength = 500
 homePagePostDate = false
 dateFormat = "2 Jan 2006"
-showSocialLinksHome = false
+showSocialLinksHome = true
 
 [fonts]
 siteFont = "-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Pretendard', 'Noto Sans KR', 'Malgun Gothic', sans-serif"

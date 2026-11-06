@@ -45,6 +45,14 @@ showFrontMatter: false
 - **배포 사이트**: [https://fragile-creator.github.io/MyWebPage/](https://fragile-creator.github.io/MyWebPage/)
 - **GitHub 저장소**: [https://github.com/fragile-creator/MyWebPage](https://github.com/fragile-creator/MyWebPage)
 
+### 🛠️ 주요 문제 해결요약
+
+| 문제 상황 | 원인 분석 | 해결 방법 |
+|:---|:---|:---|
+| **배포 빌드 실패** | `hugo.toml` 내 `title` 속성의 따옴표 중복 충돌 | 큰따옴표 문법으로 통일하여 파싱 오류 해결 |
+| **프로필 사진 엑박** | Hugo 파이프라인(`assets/`)과 정적 파일(`static/`) 경로 차이 | `site/static/images/`로 위치를 옮겨 정상 배포 |
+| **데스크톱 화면 치우침** | 기본 테마 CSS에 중앙 정렬 미적용 (`1440px` 기준 좌측 쏠림) | `main.css`에 본문 `margin: auto`를 적용하여 균형 확보 |
+
 ### 💡 배운 점 및 향후 개선 방향
 - **배운 점**:
   - 도구의 임시 파일(`.swp` 등)이 협업 저장소에 미치는 영향을 이해하고 `.gitignore` 규칙을 체계화.

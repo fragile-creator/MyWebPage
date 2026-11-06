@@ -2448,3 +2448,9 @@ body.dark pre {
   background-color: #1e1e1e;
   border: 1px solid #343a40;
 }
+
+/*이스터에그 충돌 방지*/
+#logo-image.nunchi-mode:hover {
+  content: normal !important;
+  transform: scale(1.15) rotate(6deg);
+}

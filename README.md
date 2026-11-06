@@ -28,6 +28,17 @@ GitHub Pages 및 GitHub Actions 기반의 자동 배포 파이프라인 구축, 
    git clone https://github.com/fragile-creator/MyWebPage.git
    cd MyWebPage
 
+2. 로컬 개발 서버 실행:
+   ```bash
+   cd site
+   hugo server -D
+
+브라우저 접속 주소: http://localhost:1313/MyWebPage/
+
+3. 배포 빌드 검증:
+   ```bash
+   python .github/pages_build.py --build
+
 ## 📜 출처 및 라이선스 고지
 
 ### 1. 원본 오픈소스 테마 정보

@@ -38,4 +38,6 @@ showFrontMatter: false
 | **GitHub Actions** | 기본 활용 | GitHub Pages 워크플로(`.github/workflows/hugo-pages.yml`)를 통한 CI/CD 배포 자동화 |
 | **Hugo (SSG)** | 기본 활용 | Hugo 디렉터리 구조(`config`, `content`, `static`, `assets`, `themes`) 이해 및 TOML 설정 커스터마이징 |
 | **HTML / CSS** | 기본 활용 | 데스크톱 본문 중앙 정렬(`margin: auto`), 헤더 간격 조정, 마크다운 기반 구조화된 문서 마크업 |
+| **C / C++** | 기본 활용 | 전공 기초 프로그래밍, 자료구조 및 알고리즘 구현 실습, 콘솔 기반 응용 프로그램 작성 |
+| **Linux (CLI)** | 기본 활용 | 쉘(Bash) 기본 명령어 조작, 파일 시스템 탐색 및 권한 관리, Git 환경 실습 |
 

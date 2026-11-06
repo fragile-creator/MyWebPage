@@ -6,9 +6,9 @@ homePageTagLine = ""
 homePageLogoPath = 'images/Guerem.png'
 homePageAbout = "컴퓨터공학에 대해 배우고 있습니다."
 
-homePageCoverPath = 'image1.png'
-homePageCoverTitle = "Welcome to our blog and portfolio."
-homePageCoverTagLine = "Discover insights, stories, and ideas that inspire. Join our community of readers exploring the latest trends and timeless wisdom.SUGAM"
+homePageCoverPath = ''
+homePageCoverTitle = "포트폴리오 웹사이트"
+homePageCoverTagLine = "전공 학습내용 기록 및 포트폴리오 작성 용 사이트 구축"
 homePageSummaryLength = 500
 homePagePostDate = false
 dateFormat = "2 Jan 2006"

@@ -2415,3 +2415,14 @@ a, button {
   content: url('/MyWebPage/images/sad.png');
   transform: scale(1.08);
 }
+
+/* 라이트 모드 글자 가시성 확장*/
+code {
+  font-family: Consolas, Monaco, "Courier New", monospace;
+  font-size: 0.9em;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  background-color: #f1f3f5;
+  color: #d6336c;
+  border: 1px solid #e9ecef;
+}

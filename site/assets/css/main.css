@@ -2426,3 +2426,12 @@ code {
   color: #d6336c;
   border: 1px solid #e9ecef;
 }
+
+/* 코드 상자 꾸미기 */
+pre {
+  padding: 1rem;
+  border-radius: 8px;
+  overflow-x: auto;
+  line-height: 1.5;
+}
+

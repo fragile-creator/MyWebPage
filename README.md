@@ -19,6 +19,7 @@ GitHub Pages 및 GitHub Actions 기반의 자동 배포 파이프라인 구축, 
 - **정적 사이트 생성기**: Hugo extended v0.167.0
 - **기본 언어**: Python 3.15.2
 - **테마**: [Sans Hugo Theme](https://github.com/psugam/sans) (MIT License)
+- **실행 환경**: Google Chrome 130.0
 
 ### 로컬 실행 및 빌드 명령어
 
@@ -27,7 +28,7 @@ GitHub Pages 및 GitHub Actions 기반의 자동 배포 파이프라인 구축, 
    git clone https://github.com/fragile-creator/MyWebPage.git
    cd MyWebPage
 
-## 📜 출처 및 라이선스 고지 (P58 충족)
+## 📜 출처 및 라이선스 고지
 
 ### 1. 원본 오픈소스 테마 정보
 - **테마명**: Sans Hugo Theme
@@ -47,4 +48,4 @@ GitHub Pages 및 GitHub Actions 기반의 자동 배포 파이프라인 구축, 
   - `hugo.toml` 및 `_index.md`의 TOML 문법 오류 디버깅
   - 목차 소제목 앵커 링크 ID 매핑 자문
   - 마크다운 표 숙련도 열 줄바꿈 방지(`white-space: nowrap`) CSS 조언
-  - 그 외 많은 조언과 도움을 받음
+  - 그 외 많은 조언과 도움을 받음(Thanks for Google & Anthropic!)

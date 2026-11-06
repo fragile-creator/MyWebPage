@@ -2435,3 +2435,16 @@ pre {
   line-height: 1.5;
 }
 
+/* 다크모드에서 배경색과 글자색 가시성 확보*/
+html[data-theme="dark"] code,
+body.dark code {
+  background-color: #2b3035;
+  color: #ff8787;
+  border-color: #495057;
+}
+
+html[data-theme="dark"] pre,
+body.dark pre {
+  background-color: #1e1e1e;
+  border: 1px solid #343a40;
+}

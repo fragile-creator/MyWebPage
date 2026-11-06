@@ -20,7 +20,7 @@ showFrontMatter: false
 ### 🔗 Link & Contact
 - **GitHub**: [github.com/fragile-creator](https://github.com/fragile-creator)
 - **Portfolio**: [fragile-creator.github.io/MyWebPage](https://fragile-creator.github.io/MyWebPage/)
-
+- **Feedback**: 피드백은 [GitHub Issues](https://github.com/fragile-creator/MyWebPage/issues)를 통해 남겨주세요!
 ---
 
 ### 💡 Explore More

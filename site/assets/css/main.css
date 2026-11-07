@@ -2449,8 +2449,21 @@ body.dark pre {
   border: 1px solid #343a40;
 }
 
-/*이스터에그 충돌 방지*/
-#logo-image.nunchi-mode:hover {
-  content: normal !important;
-  transform: scale(1.15) rotate(6deg);
+.footer-main {
+  margin-top: 1.5rem !important;
+  padding-top: 0.5rem !important;
+  padding-bottom: 1rem !important;
+  font-size: 0.85rem !important;
+  line-height: 1.4 !important;
+  text-align: center;
+}
+
+/* 데스크톱 및 넓은 화면: 줄바꿈 없이 깔끔하게 한 줄로 표시 */
+@media screen and (min-width: 600px) {
+  .footer-main br {
+    display: none;
+  }
+  .footer-main {
+    white-space: nowrap;
+  }
 }
